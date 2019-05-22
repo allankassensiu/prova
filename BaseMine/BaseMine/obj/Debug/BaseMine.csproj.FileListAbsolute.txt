@@ -1,0 +1,6 @@
+E:\Job\prova\BaseMine\BaseMine\bin\Debug\BaseMine.dll
+E:\Job\prova\BaseMine\BaseMine\bin\Debug\BaseMine.pdb
+E:\Job\prova\BaseMine\BaseMine\obj\Debug\BaseMine.csprojAssemblyReference.cache
+E:\Job\prova\BaseMine\BaseMine\obj\Debug\BaseMine.csproj.CoreCompileInputs.cache
+E:\Job\prova\BaseMine\BaseMine\obj\Debug\BaseMine.dll
+E:\Job\prova\BaseMine\BaseMine\obj\Debug\BaseMine.pdb
